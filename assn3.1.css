@@ -1,0 +1,11 @@
+table, td{
+border: 1px solid brown;
+}
+th{
+border: 1px solid brown;
+font-weight: bold;
+font-align: center;
+}
+
+
+
